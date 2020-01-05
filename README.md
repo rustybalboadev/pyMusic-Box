@@ -1,6 +1,6 @@
 <p align='center'>
-  <h1 align='center'>PyMusic-Box</h1>
   <img src='https://github.com/RustyBalboadev/PyMusic-Box/blob/master/PyMusicbox.png'>
+  <h1 align="center">PyMusic-Box</h1>
 </p>
 
 ## Inspiration
