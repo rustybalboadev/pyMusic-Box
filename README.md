@@ -7,7 +7,7 @@
 This project was rewritting in Python Original Idea by [@Jacc](https://github.com/jacc/music-box)
 
 ## Setup
-``pip install github``
+``pip install github``\
 Get a LastFM Key [link](https://www.last.fm/api/account/create)\
 Get a Github Key User Profile > Settings > Developer Settings\
 ID of Gist
