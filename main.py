@@ -1,7 +1,6 @@
 import json
 import requests
 import github
-import time
 last_fm = '' #Last FM Key created at: https://www.last.fm/api/account/create
 ghub_token = '' #Github token found in User Profile > Settings > Developer Settings
 gist_id = '' #your gist id (found in url of gist)
