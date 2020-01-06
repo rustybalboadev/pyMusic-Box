@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://github.com/RustyBalboadev/PyMusic-Box/blob/master/PyMusicbox.png'>
+  <img src='https://github.com/RustyBalboadev/PyMusic-Box/blob/master/Music-box.png'>
   <h1 align="center">PyMusic-Box</h1>
 </p>
 
