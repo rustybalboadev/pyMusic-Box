@@ -3,14 +3,13 @@
   <h1 align="center">PyMusic-Box</h1>
 </p>
 
-## Inspiration
+## Setup 🔧
+* ``pip install github``
+* Get a LastFM API Key [here](https://www.last.fm/api/account/create) insert it at [line 7](https://github.com/RustyBalboadev/pyMusic-Box/blob/master/main.py#L7)
+* Get a GitHub API Key [here](https://github.com/settings/tokens) insert it at [line 8](https://github.com/RustyBalboadev/pyMusic-Box/blob/master/main.py#L8)
+* Get the ID of the Gist and insert it at [line 9](https://github.com/RustyBalboadev/pyMusic-Box/blob/master/main.py#L9)
+* Input your LastFM Username at [line 10](https://github.com/RustyBalboadev/pyMusic-Box/blob/master/main.py#L10)
+
+# Inspiration 🧠
 This project was rewritting in Python Original Idea by [@Jacc](https://github.com/jacc/music-box)
-
-## Setup
-``pip install github``\
-Get a LastFM Key [link](https://www.last.fm/api/account/create)\
-Get a Github Key User Profile > Settings > Developer Settings\
-ID of Gist
-
-With all of these input them into their commented spots in the code and enjoy!
 
