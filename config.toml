@@ -1,0 +1,11 @@
+#Last FM Key created at: https://www.last.fm/api/account/create
+last_fm = ""
+
+#Github token found in User Profile > Settings > Developer Settings
+github_token = ""
+
+#your gist id (found in url of gist)
+gist_id = ""
+
+# LastFM Username
+username = ""

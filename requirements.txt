@@ -1,3 +1,4 @@
 requests==2.23.0
 crayons==0.3.0
 PyGithub==1.51
+toml==0.10.1

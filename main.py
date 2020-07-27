@@ -4,10 +4,16 @@ import github
 import time
 import os
 import crayons
-last_fm = '' #Last FM Key created at: https://www.last.fm/api/account/create
-ghub_token = '' #Github token found in User Profile > Settings > Developer Settings
-gist_id = '' #your gist id (found in url of gist)
-username = '' # LastFM Username
+import toml
+
+with open("config.toml", 'r') as f:
+    config = toml.loads(f.read())
+
+last_fm =  config['last_fm']
+ghub_token = config['github_token']
+gist_id = config['gist_id']
+username = config['username']
+
 content = """"""
 times = 0
 gh = github.Github(ghub_token)
